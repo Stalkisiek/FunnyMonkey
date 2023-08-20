@@ -6,6 +6,5 @@ public class TempClass
 
     public void mm()
     {
-        
     }
 }
